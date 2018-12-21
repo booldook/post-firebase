@@ -1,4 +1,4 @@
-Firebase 설치
+# Firebase 설치
 --
 firebase PC에서 환경설정
 1. node.js 설치 (npm 설치) - 1번만
@@ -11,7 +11,7 @@ firebase PC에서 환경설정
 
 
 
-# Firebase 설치
+## Firebase 설치
 ### nodejs 설치
 ~~~
 node -v

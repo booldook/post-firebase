@@ -11,7 +11,7 @@ firebase PC에서 환경설정
 
 
 
-## Firebase 설치
+## Firebase 설치 과정
 ### nodejs 설치
 ~~~
 node -v

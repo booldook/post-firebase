@@ -13,6 +13,7 @@ firebase PC에서 환경설정
 
 ## Firebase 설치 과정
 ### nodejs 설치
+Node.js 는 nodejs.io 에서 다운로드 후 설치함 설치후 아래와 같이 버전 확인
 ~~~
 node -v
 ~~~
